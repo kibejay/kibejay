@@ -13,9 +13,9 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kibejay&label=Profile%20views&color=0e75b6&style=flat" alt="kibejay" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kibejay" alt="kibejay" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/techjay99nerd" target="blank"><img src="https://img.shields.io/twitter/follow/techjay99nerd?logo=twitter&style=for-the-badge" alt="techjay99nerd" /></a> </p>
+
+
 
 - 👨‍💻 All of my projects are available at [kibejay/github.com](kibejay/github.com)
 
